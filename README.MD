@@ -1,4 +1,4 @@
-# NerdStore - Carrinho de Compras - NodeJS/Express
+# Shopping Cart - NodeJS/Express
 
 ### Run Locally on Your Machine
 You need Node, NPM and MongoDB properly installed.
