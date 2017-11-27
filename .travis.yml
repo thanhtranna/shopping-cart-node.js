@@ -1,0 +1,6 @@
+language: node_js
+node_js:
+  - 'v7.10.0'
+services: mongodb
+env:
+  - MONGO_DB_URI=mongodb://localhost:27017/nodejs_shoppingcart
